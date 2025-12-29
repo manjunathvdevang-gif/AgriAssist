@@ -1,0 +1,9 @@
+{
+  "name": "AgriAssist",
+  "description": "Smart Farming Support App with AI-driven crop recommendations, weather alerts, and market insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
